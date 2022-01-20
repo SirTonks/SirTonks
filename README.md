@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SirTonks
-- 👀 I’m interested in changing career paths from helpdesk style IT support into a career with coding involved.
+- 👀 I’ve taken a job with more coding involved and want to explore more coding involved work.
 - 🌱 I’m currently learning Python 3
 
 <!---
